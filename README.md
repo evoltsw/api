@@ -1,2 +1,2 @@
-# api
+# Evolt API
 🍩 Evolt Application Programming Interface

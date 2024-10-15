@@ -1,0 +1,22 @@
+{
+  "name": "evolt",
+  "version": "0.1.2",
+  "description": "Evolt Application Programming Interface",
+  "main": "src/mod.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evoltsw/api.git"
+  },
+  "keywords": [
+    "evolt"
+  ],
+  "author": "ihasq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evoltsw/api/issues"
+  },
+  "homepage": "https://github.com/evoltsw/api#readme"
+}
